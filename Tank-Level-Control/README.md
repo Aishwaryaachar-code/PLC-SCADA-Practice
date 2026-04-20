@@ -37,4 +37,4 @@ Tool Used
 Output
 ## Output
 
-![Ladder Diagram](PASTE)
+![Ladder Diagram](Tank-Level-Control/Screenshot_20260419_213842_Chrome.jpg)
