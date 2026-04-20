@@ -38,4 +38,4 @@ Tool Used
 
 Output
 
-![Ladder Diagram](PASTE_YOUR_LINK_HERE)
+![Ladder Diagram](Tank-Level-Control/Screenshot_20260419_213842_Chrome.jpg)
