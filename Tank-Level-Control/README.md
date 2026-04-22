@@ -35,6 +35,5 @@ Tool Used
 - Online PLC Simulator
 
 Output
-## Output
 
-![Ladder Diagram](Tank-Level-Control/Screenshot_20260419_213842_Chrome.jpg)
+![Ladder Diagram](Screenshot_20260419_213842_Chrome.jpg)
