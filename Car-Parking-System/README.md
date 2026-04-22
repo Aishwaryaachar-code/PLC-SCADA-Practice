@@ -39,4 +39,4 @@ Tool Used
 
 Output
 
-![Ladder Diagram](PASTE)
+![Ladder Diagram](Car-Parking-System/Screenshot_20260422_191951_Chrome.jpg)
