@@ -43,4 +43,4 @@ Tool Used
 
 Output
 
-![Ladder Diagram](Graph)
+![Ladder Diagram](Screenshot_20260424_220547_Chrome.jpg)
